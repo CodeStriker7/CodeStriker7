@@ -1,5 +1,15 @@
 ## Hi there 👋
+<div align="center">
 
+  <h1> Python Developer 🐍 </h1>
+
+  <img src="Coding Jim Carrey GIF by PERFECTL00P.gif" width="500" />
+
+  <br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Python+Developer;SQL+%26+C%2B%2B;Django+Projects" alt="Typing SVG" />
+
+</div>
 <!--
 **CodeStriker7/CodeStriker7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
