@@ -3,7 +3,7 @@
 
   <h1> Python Developer 🐍 </h1>
 
-  <img src="Coding Jim Carrey GIF by PERFECTL00P.gif" width="500" />
+  <img src="CodingJimCarrey.gif" width="500" />
 
   <br>
 
