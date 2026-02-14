@@ -3,7 +3,7 @@
 
   <h1> Python Developer 🐍 </h1>
 
-  <img src="CodingJimCarrey.gif" width="500" />
+  <img src="ComputerButler.gif" width="500" />
 
   <br>
 
