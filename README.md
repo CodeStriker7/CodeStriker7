@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center">
 
-  <h1> Python Developer 🐍 </h1>
+  <h1> Python Developer </h1>
 
   <img src="ComputerButler.gif" width="500" />
 
